@@ -1,10 +1,6 @@
 import requests
 import mplfinance as mpf
 import pandas as pd
-import matplotlib.pyplot as plt
-
-
-
 
 def GetCandleChart(tickerSymbol, dateType):
 
