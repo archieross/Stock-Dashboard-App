@@ -6,7 +6,7 @@ A Tkinter based GUI Application that allows users to search for a stock by its t
 
 <img width="1341" alt="Screenshot 2025-01-04 at 3 00 47 pm" src="https://github.com/user-attachments/assets/3f63f01c-d4ec-45b6-b797-be4f5c149fa7" />
 
-Instructions:
+# Instructions
 
 Ensure all the dependencies listed below are installed. Ensuring all the scripts are contained within the same folder, run GUI.py to launch the application. Then simply enter a stock ticker and click search.
 
